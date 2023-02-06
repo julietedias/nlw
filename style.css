@@ -26,9 +26,7 @@ header div {
     width: 120px;
     margin: auto;
     background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
-    
     border-radius: 50%;
-
     display: flex;
     padding: 4px;
     transition: transform 0.3s;
@@ -47,7 +45,6 @@ main {
     max-width: 580px;
     width: 90%;
     margin: 32px auto;
-
     display: grid;
     gap: 24px;
 }
@@ -57,7 +54,6 @@ section {
     background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
     padding-top: 4px;
     border-radius: 10px;
-
 }
 
 section div {
@@ -76,7 +72,6 @@ section p {
     font-size: 16px;
     letter-spacing: -0.18px;
     color: #A1A1AA;
-
 }
 
 section ul {
@@ -84,7 +79,6 @@ section ul {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
-
     margin-top: 24px;
 }
 
